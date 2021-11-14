@@ -1,7 +1,6 @@
-class Cbbb
-{
-	double x; 
-	double y;
+class Cbbb{
+ double x; 
+ double y;
 }
 
 public class Main {
