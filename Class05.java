@@ -26,7 +26,7 @@ System.out.println("volume="+volume());
 }
 }
 
-public class Main3
+public class Main
 {
 public static void main(String args[])
 {
@@ -40,3 +40,9 @@ box.height=9;
 box.showAll();
 }
 }
+
+//length=3
+//width=6
+//height=9
+//surface area=198
+//volume=162
